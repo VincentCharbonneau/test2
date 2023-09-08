@@ -1,1 +1,1 @@
-test 12 xdd
+print(allo)
